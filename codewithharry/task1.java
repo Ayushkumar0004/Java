@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class task1 {
     public static void main(String[] args) {
@@ -16,5 +15,6 @@ public class task1 {
         float percentage = ((physics + English + chemistry + mathematics + computer)/500.0f)*100;
         System.out.println("percentage : ");
         System.out.println(percentage);
+        scan.close();
     }
 }
