@@ -15,6 +15,11 @@ public class Intro{
         sc.delete(6,13);
         sc.insert(4, "Jerry");
         System.out.println(sc);
-
+        String c = sc.substring(6);
+        System.out.println(sc);
+        System.out.println(c);
+        sc.replace(6,13,"Anurag");
+        System.out.println(sc);
+        
     }
 }
