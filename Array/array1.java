@@ -1,3 +1,4 @@
+package Array;
 public class array1 {
     void func(int[] aa) {
         for(int k : aa)
