@@ -20,6 +20,5 @@ public class Intro{
         System.out.println(c);
         sc.replace(6,13,"Anurag");
         System.out.println(sc);
-        
     }
 }
