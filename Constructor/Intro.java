@@ -1,3 +1,5 @@
+import Inheritance.Intro;
+
 class Intro {
     int num1, num2, num3;
 

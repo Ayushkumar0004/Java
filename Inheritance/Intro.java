@@ -1,3 +1,4 @@
+package Inheritance;
 class A {
     A() {
         System.out.println("This is Class A");
@@ -5,7 +6,6 @@ class A {
 }
 class B extends A {
     void fun() {
-        super();
         System.out.println("This is Class B");
     }
 }
