@@ -1,3 +1,4 @@
+package Game;
 import java.util.*;
 public class HangmanGame {
     private static final String[] WORDS = {"computer", "java", "programming", "algorithm", "developer"};
