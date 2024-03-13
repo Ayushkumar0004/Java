@@ -1,4 +1,4 @@
-package Introduction_1;
+// package Introduction_1;
 import java.util.Scanner;
 public class Scanner2 {
     public static void main(String[] args) {

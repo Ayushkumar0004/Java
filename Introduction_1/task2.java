@@ -1,4 +1,4 @@
-package Introduction_1;
+// package Introduction_1;
 public class task2 {
     public static void main(String[] args) {
         printStarTriangle(7);
