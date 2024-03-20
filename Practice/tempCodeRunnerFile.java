@@ -1,4 +1,4 @@
-package Practice;
+// package Practice;
 // class Company {
 //     private int salary;
 
