@@ -1,6 +1,4 @@
 // Determine if a given number is a perfect square using a lambda expression.
-import java.util.*;
-
 @FunctionalInterface
 interface PerfectSquare {
     boolean isPerfectSquare(int n);
