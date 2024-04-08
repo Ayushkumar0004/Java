@@ -19,3 +19,12 @@ public class Task2 {
         }
     }
 }
+File f1 = new File("D");
+if(f1.delete())
+{
+    System.out.println(f1.getName() + " file is created successfully");
+}
+else
+{
+    System.out.println("Unexpected error found inn deletion of file");
+}
